@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<BUS>
+<bus name ="7Д">
+		<route>вул. Грушевського - Дачний масив "Шахта"</route>
+		<price>5</price>
+		<interval>40-80</interval>
+		<day>Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time>06:40 - 19:30</time>
+	</bus>
+</BUS>

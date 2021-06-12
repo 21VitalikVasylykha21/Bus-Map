@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<BUS>
+<bus name ="8">
+		<route>вул. Чорновола - УжНУ </route>
+		<price>	5 </price>
+		<interval>7-15</interval>
+		<day>Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time>06:30 - 23:00</time>
+	</bus>
+</BUS>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<BUS>
+<bus name ="22">
+		<route>вул. Чорновола - пл. Корятовича (через вул. Перемоги)</route>
+		<price>5</price>
+		<interval>6-18</interval>
+		<day>Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time>07:15 - 21:00</time>
+	</bus>
+</BUS>

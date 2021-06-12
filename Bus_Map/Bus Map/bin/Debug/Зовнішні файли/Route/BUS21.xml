@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<BUS>
+<bus name ="21">
+		<route>вул. Чорновола - Речовий ринок </route>
+		<price>5</price>
+		<interval>10-12</interval>
+		<day>Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time>06:20 - 21:30</time>
+	</bus>
+</BUS>

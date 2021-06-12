@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<BUS>
+<bus name ="9">
+		<route>вул. Котляревського - Речовий ринок </route>
+		<price>5</price>
+		<interval>25</interval>
+		<day>Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time>07:00 - 19:00 </time>
+	</bus>
+</BUS>

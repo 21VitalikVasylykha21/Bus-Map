@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<BUS>
+<bus name ="12П">
+		<route>пл. Шандора Петефі - с. Розівка</route>
+		<price>5</price>
+		<interval>7-12</interval>
+		<day>Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time>06:30 - 21:00</time>
+	</bus>
+</BUS>

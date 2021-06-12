@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<BUS>
+	<bus name ="11">
+		<route>Залізничний вокзал - пл. Куроп'ятникова - вул. Володимирська </route>
+		<price>5</price>
+		<interval>9-12 </interval>
+		<day>Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time>06:45 - 22:00</time>
+	</bus>
+</BUS>

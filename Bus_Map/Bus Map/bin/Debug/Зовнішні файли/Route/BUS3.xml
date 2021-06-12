@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<BUS>
+<bus name ="3">
+		<route>вл. Черновола - пл. Шандора Петефі </route>
+		<price>5</price>
+		<interval>6-9</interval>
+		<day>Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time>07:00 - 22:00</time>
+	</bus>
+</BUS>

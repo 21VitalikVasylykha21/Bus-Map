@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<BUS>
+<bus name ="20">
+		<route>м / н Доманинці - Речовий ринок</route>
+		<price>7</price>
+		<interval>10-20</interval>
+		<day> Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time> 07:05 - 18:00 </time>
+	</bus>
+</BUS>

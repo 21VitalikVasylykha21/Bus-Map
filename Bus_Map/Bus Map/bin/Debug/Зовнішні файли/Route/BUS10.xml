@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<BUS>
+<bus name ="10">
+		<route>ТЦ "Нова Лінія" - м / н Горяни </route>
+		<price>5</price>
+		<interval> 8-20 </interval>
+		<day>Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time>06:20 - 23:00</time>
+	</bus>
+</BUS>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<BUS>
+	<bus name ="17">
+		<route>вул. Котляревського - УжНУ </route>
+		<price>5</price>
+		<interval>60-80</interval>
+		<day>Пн, Вт, Ср, Чт, Пн</day>
+		<time>07:15 - 18:40</time>
+	</bus>
+</BUS>

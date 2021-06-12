@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<BUS>
+	
+	<bus name ="1">
+		<route>вл. пл. Шандора Петефі - м / н Дравці - с. Баранинці </route>
+		<price>	5 </price>
+		<interval> 8-20 </interval>
+		<day> Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time> 06:50 - 22:00 </time>
+	</bus>
+	
+	<bus name ="2">
+		<route>пл. Шандора Петефі - м / н Горяни - м / н 555 </route>
+		<price>	5 </price>
+		<interval> 15-20 </interval>
+		<day> Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time> 06:45 - 22:00 </time>
+	</bus>
+	
+	<bus name ="3">
+		<route>вл. Черновола - пл. Шандора Петефі </route>
+		<price>	5 </price>
+		<interval> 6-9 </interval>
+		<day> Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time> 07:00 - 22:00 </time>
+	</bus>
+	
+	<bus name ="7">
+		<route>вул. Грушевського - вул. Котляревського </route>
+		<price>	5 </price>
+		<interval> 5-15 </interval>
+		<day> Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time> 06:20 - 23:00 </time>
+	</bus>
+	
+	<bus name ="7Д">
+		<route>вул. Грушевського - Дачний масив "Шахта" </route>
+		<price>	5 </price>
+		<interval> 40-80 </interval>
+		<day> Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time> 06:40 - 19:30 </time>
+	</bus>
+	
+	<bus name ="8">
+		<route>вул. Чорновола - УжНУ </route>
+		<price>	5 </price>
+		<interval> 7-15 </interval>
+		<day> Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time> 06:30 - 23:00 </time>
+	</bus>
+	
+	<bus name ="9">
+		<route>вул. Котляревського - Речовий ринок </route>
+		<price>	5 </price>
+		<interval> 25 </interval>
+		<day> Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time> 07:00 - 19:00 </time>
+	</bus>
+	
+	<bus name ="10">
+		<route>ТЦ "Нова Лінія" - м / н Горяни </route>
+		<price>	5 </price>
+		<interval> 8-20 </interval>
+		<day> Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time> 06:20 - 23:00 </time>
+	</bus>
+	
+	<bus name ="11">
+		<route> Залізничний вокзал - пл. Куроп'ятникова - вул. Володимирська </route>
+		<price>	5 </price>
+		<interval> 9-12 </interval>
+		<day> Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time> 06:45 - 22:00 </time>
+	</bus>
+	
+	<bus name ="12П">
+		<route>пл. Шандора Петефі - с. Розівка</route>
+		<price>	5 </price>
+		<interval> 7-12 </interval>
+		<day> Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time> 06:30 - 21:00 </time>
+	</bus>
+	
+	<bus name ="14">
+		<route>пл. Корятовича - вул. Чорновола</route>
+		<price>	5 </price>
+		<interval> 7-12 </interval>
+		<day> Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time> 06:10 - 23:00 </time>
+	</bus>
+	
+	<bus name ="15">
+		<route>вул. Панаса Мирного - с. Оноківці - вул. довга</route>
+		<price>5</price>
+		<interval>7-12</interval>
+		<day>Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time>06:55 - 22:00</time>
+	</bus>
+	
+	<bus name ="17">
+		<route>вул. Котляревського - УжНУ </route>
+		<price>	5 </price>
+		<interval> 60-80 </interval>
+		<day> Пн, Вт, Ср, Чт, Пн</day>
+		<time> 07:15 - 18:40 </time>
+	</bus>
+	
+	<bus name ="18">
+		<route>ТЦ "Епіцентр" - УжНУ</route>
+		<price>7</price>
+		<interval> 10-20 </interval>
+		<day> Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time>07:05 - 18:00</time>
+	</bus>
+	
+	<bus name ="20">
+		<route>м / н Доманинці - Речовий ринок</route>
+		<price>7</price>
+		<interval>10-20</interval>
+		<day> Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time> 07:05 - 18:00 </time>
+	</bus>
+	
+	<bus name ="21">
+		<route>вул. Чорновола - Речовий ринок </route>
+		<price>	5 </price>
+		<interval> 10-12 </interval>
+		<day> Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time> 06:20 - 21:30 </time>
+	</bus>
+	
+	<bus name ="22">
+		<route>вул. Чорновола - пл. Корятовича (через вул. Перемоги)</route>
+		<price>	5 </price>
+		<interval>6-18</interval>
+		<day> Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time> 07:15 - 21:00 </time>
+	</bus>
+	
+	<bus name ="24">
+		<route>вул. Котляревського - УжНУ </route>
+		<price>7</price>
+		<interval> 10-20 </interval>
+		<day> Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time> 07:05 - 18:00 </time>
+	</bus>
+	
+	<bus name ="26">
+		<route>м/н 555 - м/н Горяни - УжНУ </route>
+		<price>	5 </price>
+		<interval> 30 </interval>
+		<day> Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time> 07:10 - 19:10 </time>
+	</bus>
+	
+	<bus name ="38">
+		<route>вул. Чорновола - УжНУ</route>
+		<price>	5 </price>
+		<interval> 7-15 </interval>
+		<day> Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time> 06:30 - 23:00 </time>
+	</bus>
+	
+	<bus name ="58">
+		<route>Залізничний вокзал - УжНУ </route>
+		<price>	5 </price>
+		<interval> 6-15 </interval>
+		<day> Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time> 06:45 - 22:30 </time>
+	</bus>
+	
+	<bus name ="156">
+		<route>вул. Чорновола - кладовище "Барвінкош" </route>
+		<price>5</price>
+		<interval>120</interval>
+		<day> Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time> 08:00 - 17:20 </time>
+	</bus>
+</BUS>

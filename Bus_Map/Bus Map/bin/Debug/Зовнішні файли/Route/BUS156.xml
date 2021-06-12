@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<BUS>
+<bus name ="156">
+		<route>вул. Чорновола - кладовище "Барвінкош" </route>
+		<price>5</price>
+		<interval>120</interval>
+		<day>Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time>08:00 - 17:20 </time>
+	</bus>
+</BUS>

@@ -1,0 +1,54 @@
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Bus Map\Bus Map\Bus Map\bin\Debug\Bus Map.exe.config
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Bus Map\Bus Map\Bus Map\bin\Debug\Bus Map.exe
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Bus Map\Bus Map\Bus Map\bin\Debug\Bus Map.pdb
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Bus Map\Bus Map\Bus Map\obj\Debug\Bus Map.csprojAssemblyReference.cache
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Bus Map\Bus Map\Bus Map\obj\Debug\Bus_Map.BusMapFrm.resources
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Bus Map\Bus Map\Bus Map\obj\Debug\Bus_Map.LoginFrm.resources
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Bus Map\Bus Map\Bus Map\obj\Debug\Bus_Map.MainFrm.resources
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Bus Map\Bus Map\Bus Map\obj\Debug\Bus_Map.Properties.Resources.resources
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Bus Map\Bus Map\Bus Map\obj\Debug\Bus_Map.RegistrationFrm.resources
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Bus Map\Bus Map\Bus Map\obj\Debug\Bus Map.csproj.GenerateResource.cache
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Bus Map\Bus Map\Bus Map\obj\Debug\Bus Map.exe
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Bus Map\Bus Map\Bus Map\obj\Debug\Bus Map.pdb
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Bus Map\Bus Map\Bus Map\obj\Debug\Bus_Map.InformationFrm.resources
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Bus Map\Bus Map\Bus Map\bin\Debug\System.ValueTuple.dll
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Bus Map\Bus Map\Bus Map\bin\Debug\System.ValueTuple.xml
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Bus Map\Bus Map\Bus Map\obj\Debug\Bus Map.csproj.CopyComplete
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Bus Map\Bus Map\Bus Map\bin\Debug\GMap.NET.Core.dll
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Bus Map\Bus Map\Bus Map\bin\Debug\GMap.NET.WindowsForms.dll
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Realis 3\Bus Map\Bus Map\bin\Debug\Bus Map.exe.config
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Realis 3\Bus Map\Bus Map\bin\Debug\Bus Map.exe
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Realis 3\Bus Map\Bus Map\bin\Debug\Bus Map.pdb
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Realis 3\Bus Map\Bus Map\bin\Debug\GMap.NET.Core.dll
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Realis 3\Bus Map\Bus Map\bin\Debug\GMap.NET.WindowsForms.dll
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Realis 3\Bus Map\Bus Map\bin\Debug\System.ValueTuple.dll
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Realis 3\Bus Map\Bus Map\bin\Debug\System.ValueTuple.xml
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Realis 3\Bus Map\Bus Map\obj\Debug\Bus Map.csprojAssemblyReference.cache
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Realis 3\Bus Map\Bus Map\obj\Debug\Bus_Map.BusMapFrm.resources
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Realis 3\Bus Map\Bus Map\obj\Debug\Bus_Map.InformationFrm.resources
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Realis 3\Bus Map\Bus Map\obj\Debug\Bus_Map.LoginFrm.resources
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Realis 3\Bus Map\Bus Map\obj\Debug\Bus_Map.MainFrm.resources
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Realis 3\Bus Map\Bus Map\obj\Debug\Bus_Map.Properties.Resources.resources
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Realis 3\Bus Map\Bus Map\obj\Debug\Bus_Map.RegistrationFrm.resources
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Realis 3\Bus Map\Bus Map\obj\Debug\Bus Map.csproj.GenerateResource.cache
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Realis 3\Bus Map\Bus Map\obj\Debug\Bus Map.csproj.CopyComplete
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Realis 3\Bus Map\Bus Map\obj\Debug\Bus Map.exe
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\Term Paper Realis 3\Bus Map\Bus Map\obj\Debug\Bus Map.pdb
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\RELIS\Bus Map Active User\Bus Map\Bus Map\bin\Debug\Bus Map.exe.config
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\RELIS\Bus Map Active User\Bus Map\Bus Map\bin\Debug\Bus Map.exe
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\RELIS\Bus Map Active User\Bus Map\Bus Map\bin\Debug\Bus Map.pdb
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\RELIS\Bus Map Active User\Bus Map\Bus Map\bin\Debug\GMap.NET.Core.dll
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\RELIS\Bus Map Active User\Bus Map\Bus Map\bin\Debug\GMap.NET.WindowsForms.dll
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\RELIS\Bus Map Active User\Bus Map\Bus Map\bin\Debug\System.ValueTuple.dll
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\RELIS\Bus Map Active User\Bus Map\Bus Map\bin\Debug\System.ValueTuple.xml
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\RELIS\Bus Map Active User\Bus Map\Bus Map\obj\Debug\Bus Map.csprojAssemblyReference.cache
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\RELIS\Bus Map Active User\Bus Map\Bus Map\obj\Debug\Bus_Map.BusMapFrm.resources
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\RELIS\Bus Map Active User\Bus Map\Bus Map\obj\Debug\Bus_Map.InformationFrm.resources
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\RELIS\Bus Map Active User\Bus Map\Bus Map\obj\Debug\Bus_Map.LoginFrm.resources
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\RELIS\Bus Map Active User\Bus Map\Bus Map\obj\Debug\Bus_Map.MainFrm.resources
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\RELIS\Bus Map Active User\Bus Map\Bus Map\obj\Debug\Bus_Map.Properties.Resources.resources
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\RELIS\Bus Map Active User\Bus Map\Bus Map\obj\Debug\Bus_Map.RegistrationFrm.resources
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\RELIS\Bus Map Active User\Bus Map\Bus Map\obj\Debug\Bus Map.csproj.GenerateResource.cache
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\RELIS\Bus Map Active User\Bus Map\Bus Map\obj\Debug\Bus Map.csproj.CopyComplete
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\RELIS\Bus Map Active User\Bus Map\Bus Map\obj\Debug\Bus Map.exe
+E:\Учоба\OPAM Term Paper(2020)\Term Paper\RELIS\Bus Map Active User\Bus Map\Bus Map\obj\Debug\Bus Map.pdb

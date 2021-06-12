@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<BUS>
+	<bus name ="7">
+		<route>вул. Грушевського - вул. Котляревського </route>
+		<price>5</price>
+		<interval>5-15</interval>
+		<day>Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time>06:20 - 23:00</time>
+	</bus>
+</BUS>

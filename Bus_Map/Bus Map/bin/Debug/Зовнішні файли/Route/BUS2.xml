@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<BUS>
+	<bus name ="2">
+		<route>пл. Шандора Петефі - м / н Горяни - м / н 555 </route>
+		<price>5</price>
+		<interval>15-20</interval>
+		<day>Пн, Вт, Ср, Чт, Пн, Сб, Нд</day>
+		<time>06:45 - 22:00</time>
+	</bus>
+</BUS>
